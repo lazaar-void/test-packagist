@@ -1,6 +1,6 @@
 {
-  "name": "vendor_name/typing_php",
-  "description": "description",
+  "name": "hamza_void/typing_php",
+  "description": "package to be pushed in packagist for the PHP sprint (VOID bootcamp)",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
